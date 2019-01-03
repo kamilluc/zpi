@@ -18,6 +18,7 @@ Projekt zostanie zrealizowany na zlecenie firmy trzeciej. Zakłada on stworzenie
 
 **Gantt_Critical.pdf** - wykrs Gantt'a z zaznaczoną ścieżką krytyczną (PDF)
 
+**Critical_Tasks.pdf** - zadania krytyczne w projekcie (PDF)
 
 
 <br>
