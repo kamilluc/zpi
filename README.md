@@ -1,6 +1,6 @@
-# _Zarządzanie projektem informatycznym_
+﻿# _Zarządzanie projektem informatycznym_
 
-## Opis:
+## Opis
 
 Projekt zostanie zrealizowany na zlecenie firmy trzeciej. Zakłada on stworzenie aplikacji umożliwiającej wygodną komunikację tekstową i głosową do zastosowań biznesowych. Produkt ma zostać dostarczony w dwóch formach, aplikacji internetowej oraz aplikacji na system Android. Docelowy klient po zakupie własnego serwera uzyskałby dostęp do kompleksowego rozwiązania służącego do komunikacji wewnątrz swojej organizacji.
 
