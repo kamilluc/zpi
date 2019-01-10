@@ -10,16 +10,15 @@ Projekt zostanie zrealizowany na zlecenie firmy trzeciej. Zakłada on stworzenie
 
 **Project.mpp** - opracowany projekt (MPP - Microsoft Project 2019)
 
-**Report.docx** - finalna dokumentacja projektu (DOCX)
-
 **Report.pdf** - finalna dokumentacja projektu (PDF)
+
+**Report.docx** - finalna dokumentacja projektu (DOCX)
 
 **Gantt.pdf** - wykres Gantt'a (PDF)
 
 **Gantt_Critical.pdf** - wykrs Gantt'a z zaznaczoną ścieżką krytyczną (PDF)
 
 **Critical_Tasks.pdf** - zadania krytyczne w projekcie (PDF)
-
 
 <br>
 
